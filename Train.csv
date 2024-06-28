@@ -1,0 +1,209 @@
+Name,Type,Zone
+Tower Gateway,Dockland Light Railway,Zone 1
+Hoxton,London Overground,Zone 1
+Shortditch High Street,London Overground,Zone 1
+Aldgate,London Underground,Zone 1
+Aldgate East,London Underground,Zone 1
+Angel,London Underground,Zone 1
+Baker Street,London Underground,Zone 1
+Barbican,London Underground,Zone 1
+Bank,London Underground,Zone 1
+Battersea Power Station,London Underground,Zone 1
+Bayswater,London Underground,Zone 1
+Blackfriars LU,London Underground,Zone 1
+Bond Street,London Underground,Zone 1
+Borough,London Underground,Zone 1
+Cannon Street LU,London Underground,Zone 1
+Chancery Lane,London Underground,Zone 1
+Charing Cross LU,London Underground,Zone 1
+Covent Garden,London Underground,Zone 1
+Earl’s Court,London Underground,Zone 1
+Edgware Road (Bakerloo),London Underground,Zone 1
+Edgware Road (Circle),London Underground,Zone 1
+Elephant & Castle LU,London Underground,Zone 1
+Embankment,London Underground,Zone 1
+Euston LU,London Underground,Zone 1
+Euston Square,London Underground,Zone 1
+Farringdon,London Underground,Zone 1
+Gloucester Road,London Underground,Zone 1
+Goodge Street,London Underground,Zone 1
+Great Portland Street,London Underground,Zone 1
+Green Park,London Underground,Zone 1
+High Street Kensington,London Underground,Zone 1
+Holborn,London Underground,Zone 1
+Hyde Park Corner,London Underground,Zone 1
+Kennington,London Underground,Zone 1
+King’s Cross St Pancrass LU,London Underground,Zone 1
+Knightsbridge,London Underground,Zone 1
+Lambeth North,London Underground,Zone 1
+Lancaster Gate,London Underground,Zone 1
+Leicester Square,London Underground,Zone 1
+Liverpool Street LU,London Underground,Zone 1
+London Bridge LU,London Underground,Zone 1
+Mansion House,London Underground,Zone 1
+Mable Arch,London Underground,Zone 1
+Marylebone LU,London Underground,Zone 1
+Monument,London Underground,Zone 1
+Moorgate,London Underground,Zone 1
+Nine Elms,London Underground,Zone 1
+Notting Hill Gate,London Underground,Zone 1
+Old Street,London Underground,Zone 1
+Oxford Circus,London Underground,Zone 1
+"Paddington (Bakerloo, Circle and District)",London Underground,Zone 1
+Paddington (Circle and Hammersmith & City),London Underground,Zone 1
+Piccadilly Circus,London Underground,Zone 1
+Pimlico,London Underground,Zone 1
+Queensway,London Underground,Zone 1
+Regent’s Park,London Underground,Zone 1
+Russell Square,London Underground,Zone 1
+Sloane Square,London Underground,Zone 1
+South Kensington,London Underground,Zone 1
+Southwark,London Underground,Zone 1
+St James’s Park,London Underground,Zone 1
+St Paul’s,London Underground,Zone 1
+Temple,London Underground,Zone 1
+Tottenham Court Road,London Underground,Zone 1
+Tower Hill,London Underground,Zone 1
+Vauxhall LU,London Underground,Zone 1
+Victoria LU,London Underground,Zone 1
+Warren Street,London Underground,Zone 1
+Waterloo LU,London Underground,Zone 1
+Westminster,London Underground,Zone 1
+Abbey Road,Docklands Light Railway,Zone 2
+All Saints,Docklands Light Railway,Zone 2
+Archway,London Underground,Zone 2
+Arsenal,London Underground,Zone 2
+Barons Court,London Underground,Zone 2
+Belsize Park,London Underground,Zone 2
+Bermondsey,London Underground,Zone 2
+Bethnal Green LU,London Underground,Zone 2
+Bethnal Green NR,London Overground,Zone 2
+Blackwall,Docklands Light Railway,Zone 2
+Bow Church,Docklands Light Railway,Zone 2
+Bow Road,London Underground,Zone 2
+Brixton LU,London Underground,Zone 2
+Brockley,London Overground,Zone 2
+Bromley-by-Bow,London Underground,Zone 2
+Brondesbury,London Overground,Zone 2
+Brondesbury Park,London Overground,Zone 2
+Caledonian Road,London Underground,Zone 2
+Caledonian Road and Barnsbury,London Overground,Zone 2
+Cambridge Heath,London Overground,Zone 2
+Camden Road,London Overground,Zone 2
+Camden Town,London Underground,Zone 2
+Canada Water,London UndergroundLondon Overground,Zone 2
+Canary Wharf LU,London Underground,Zone 2
+Canary Wharf DLR,Docklands Light Railway,Zone 2
+Canning Town,London Underground,Zone 2
+Canonbury,London Overground,Zone 2
+Chalk Farm,London Underground,Zone 2
+Clapham Common,London Underground,Zone 2
+Clapham High Street,London Overground,Zone 2
+Clapham North,London Underground,Zone 2
+Clapham South,London Underground,Zone 2
+Clapton,London Overground,Zone 2
+Crossharbour,Docklands Light Railway,Zone 2
+Cutty Sark,Docklands Light Railway,Zone 2
+Dalston Junction,London Overground,Zone 2
+Dalston Kingsland,London Overground,Zone 2
+Deptford Bridge,Docklands Light Railway,Zone 2
+Devons Road,Docklands Light Railway,Zone 2
+Earl's Court,London Underground,Zone 2
+East Acton,London Underground,Zone 2
+East India,Docklands Light Railway,Zone 2
+East Putney,London Underground,Zone 2
+Elephant & Castle LU,London Underground,Zone 2
+Elverson Road,Docklands Light Railway,Zone 2
+Finchley Road,London Underground,Zone 2
+Finchley Road & Frognal,London Overground,Zone 2
+Finsbury Park LU,London Underground,Zone 2
+Fulham Broadway,London Underground,Zone 2
+Goldhawk Road,London Underground,Zone 2
+Gospel Oak,London Overground,Zone 2
+Hackney Central,London Overground,Zone 2
+Hackney Downs,London Overground,Zone 2
+Hackney Wick,London Overground,Zone 2
+Haggerston,London Overground,Zone 2
+Hammersmith (Circle and Hammersmith & City),London Underground,Zone 2
+Hammersmith (District and Piccadilly),London Underground,Zone 2
+Hampstead,London Underground,Zone 2
+Hampstead Heath,London Overground,Zone 2
+Heron Quays,Docklands Light Railway,Zone 2
+Highbury & Islington,London Underground,Zone 2
+Holland Park,London Underground,Zone 2
+Holloway Road,London Underground,Zone 2
+Homerton,London Overground,Zone 2
+Hoxton,London Overground,Zone 2
+Imperial Wharf,London Overground,Zone 2
+Island Gardens,Docklands Light Railway,Zone 2
+Kennington,London Underground,Zone 2
+Kensal Green,London Underground,Zone 2
+Kensal Rise,London Overground,Zone 2
+Kensington (Olympia),London Overground,Zone 2
+Kentish Town,London Underground,Zone 2
+Kentish Town West,London Overground,Zone 2
+Kilburn,London Underground,Zone 2
+Kilburn High Road,London Overground,Zone 2
+Kilburn Park,London Underground,Zone 2
+Ladbroke Grove,London Underground,Zone 2
+Langdon Park,Docklands Light Railway,Zone 2
+Latimer Road,London Underground,Zone 2
+Lewisham DLR,Docklands Light Railway,Zone 2
+Limehouse DLR,Docklands Light Railway,Zone 2
+London Fields,London Overground,Zone 2
+Maida Vale,London Underground,Zone 2
+Manor House,London Underground,Zone 2
+Mile End,London Underground,Zone 2
+Mornington Crescent,London Underground,Zone 2
+Mudchute,Docklands Light Railway,Zone 2
+New Cross Gate,London Overground,Zone 2
+North Acton,London Underground,Zone 2
+North Greenwich,London Underground,Zone 2
+Notting Hill Gate,London Underground,Zone 2
+Oval,London Underground,Zone 2
+Parsons Green,London Underground,Zone 2
+Poplar,Docklands Light Railway,Zone 2
+Pudding Mill Lane,Docklands Light Railway,Zone 2
+Putney Bridge,London Underground,Zone 2
+Queen's Park,London Underground,Zone 2
+Ravenscourt Park,London Underground,Zone 2
+Rectory Road,London Overground,Zone 2
+Rotherhithe,London Overground,Zone 2
+Royal Oak,London Underground,Zone 2
+Shadwell DLR,Docklands Light Railway,Zone 2
+Shadwell NR,London Overground,Zone 2
+Shepherd's Bush LU,London Underground,Zone 2
+Shepherd's Bush NR,London Overground,Zone 2
+Shepherd's Bush Market,London Underground,Zone 2
+South Hampstead,London Overground,Zone 2
+South Quay,Docklands Light Railway,Zone 2
+St John's Wood,London Underground,Zone 2
+Stamford Brook,London Underground,Zone 2
+Star Lane,Docklands Light Railway,Zone 2
+Stepney Green,London Underground,Zone 2
+Stockwell,London Underground,Zone 2
+Stoke Newington,London Overground,Zone 2
+Stratford,London Underground,Zone 2
+Stratford High Street,Docklands Light Railway,Zone 2
+Stratford International,SoutheasternDocklands Light Railway,Zone 2
+Surrey Quays,London Overground,Zone 2
+Swiss Cottage,London Underground,Zone 2
+Tufnell Park,London Underground,Zone 2
+Turnham Green,London Underground,Zone 2
+Upper Holloway,London Overground,Zone 2
+Vauxhall LU,London Underground,Zone 2
+Wapping,London Overground,Zone 2
+Warwick Avenue,London Underground,Zone 2
+West Brompton,London Underground,Zone 2
+West Ham,London Underground,Zone 2
+West Hampstead LU,London Underground,Zone 2
+West Hampstead NR,London Overground,Zone 2
+West India Quay,Docklands Light Railway,Zone 2
+West Kensington,London Underground,Zone 2
+Westbourne Park,London Underground,Zone 2
+Westferry,Docklands Light Railway,Zone 2
+Whitechapel,London Underground,Zone 2
+White City,London Underground,Zone 2
+Willesden Green,London Underground,Zone 2
+Willesden Junction,London Underground,Zone 2
+Wood Lane,London Underground,Zone 2
