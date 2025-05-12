@@ -12,7 +12,7 @@ def replace(s, zone):
     s[3] = "Zone " + str(zone+1)
     s.pop(1)
     return z
-urls = ["https://en.wikipedia.org/wiki/List_of_stations_in_London_fare_zone_2"]
+urls = ["https://en.wikipedia.org/wiki/List_of_bus_routes_in_London"]
 for q in range(len(urls)):
     s = bs(requests.get(urls[q], headers=headers).text, 'lxml')
     match = s.find_all('tr');
@@ -23,9 +23,9 @@ for q in range(len(urls)):
             if n%2 == 0 or n == 0:
                 continue
             z.append(m[n])
-        if filter(z): #optional
-            z = replace(z, q+1) #optional
-            cafes.append(z)
+        # if filter(z): #optional
+            # z = replace(z, q+1) #optional
+        cafes.append(z)
 for i in range(len(cafes)):
     print(cafes[i])
 

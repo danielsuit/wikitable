@@ -1,209 +1,692 @@
-Name,Type,Zone
-Tower Gateway,Dockland Light Railway,Zone 1
-Hoxton,London Overground,Zone 1
-Shortditch High Street,London Overground,Zone 1
-Aldgate,London Underground,Zone 1
-Aldgate East,London Underground,Zone 1
-Angel,London Underground,Zone 1
-Baker Street,London Underground,Zone 1
-Barbican,London Underground,Zone 1
-Bank,London Underground,Zone 1
-Battersea Power Station,London Underground,Zone 1
-Bayswater,London Underground,Zone 1
-Blackfriars LU,London Underground,Zone 1
-Bond Street,London Underground,Zone 1
-Borough,London Underground,Zone 1
-Cannon Street LU,London Underground,Zone 1
-Chancery Lane,London Underground,Zone 1
-Charing Cross LU,London Underground,Zone 1
-Covent Garden,London Underground,Zone 1
-Earl’s Court,London Underground,Zone 1
-Edgware Road (Bakerloo),London Underground,Zone 1
-Edgware Road (Circle),London Underground,Zone 1
-Elephant & Castle LU,London Underground,Zone 1
-Embankment,London Underground,Zone 1
-Euston LU,London Underground,Zone 1
-Euston Square,London Underground,Zone 1
-Farringdon,London Underground,Zone 1
-Gloucester Road,London Underground,Zone 1
-Goodge Street,London Underground,Zone 1
-Great Portland Street,London Underground,Zone 1
-Green Park,London Underground,Zone 1
-High Street Kensington,London Underground,Zone 1
-Holborn,London Underground,Zone 1
-Hyde Park Corner,London Underground,Zone 1
-Kennington,London Underground,Zone 1
-King’s Cross St Pancrass LU,London Underground,Zone 1
-Knightsbridge,London Underground,Zone 1
-Lambeth North,London Underground,Zone 1
-Lancaster Gate,London Underground,Zone 1
-Leicester Square,London Underground,Zone 1
-Liverpool Street LU,London Underground,Zone 1
-London Bridge LU,London Underground,Zone 1
-Mansion House,London Underground,Zone 1
-Mable Arch,London Underground,Zone 1
-Marylebone LU,London Underground,Zone 1
-Monument,London Underground,Zone 1
-Moorgate,London Underground,Zone 1
-Nine Elms,London Underground,Zone 1
-Notting Hill Gate,London Underground,Zone 1
-Old Street,London Underground,Zone 1
-Oxford Circus,London Underground,Zone 1
-"Paddington (Bakerloo, Circle and District)",London Underground,Zone 1
-Paddington (Circle and Hammersmith & City),London Underground,Zone 1
-Piccadilly Circus,London Underground,Zone 1
-Pimlico,London Underground,Zone 1
-Queensway,London Underground,Zone 1
-Regent’s Park,London Underground,Zone 1
-Russell Square,London Underground,Zone 1
-Sloane Square,London Underground,Zone 1
-South Kensington,London Underground,Zone 1
-Southwark,London Underground,Zone 1
-St James’s Park,London Underground,Zone 1
-St Paul’s,London Underground,Zone 1
-Temple,London Underground,Zone 1
-Tottenham Court Road,London Underground,Zone 1
-Tower Hill,London Underground,Zone 1
-Vauxhall LU,London Underground,Zone 1
-Victoria LU,London Underground,Zone 1
-Warren Street,London Underground,Zone 1
-Waterloo LU,London Underground,Zone 1
-Westminster,London Underground,Zone 1
-Abbey Road,Docklands Light Railway,Zone 2
-All Saints,Docklands Light Railway,Zone 2
-Archway,London Underground,Zone 2
-Arsenal,London Underground,Zone 2
-Barons Court,London Underground,Zone 2
-Belsize Park,London Underground,Zone 2
-Bermondsey,London Underground,Zone 2
-Bethnal Green LU,London Underground,Zone 2
-Bethnal Green NR,London Overground,Zone 2
-Blackwall,Docklands Light Railway,Zone 2
-Bow Church,Docklands Light Railway,Zone 2
-Bow Road,London Underground,Zone 2
-Brixton LU,London Underground,Zone 2
-Brockley,London Overground,Zone 2
-Bromley-by-Bow,London Underground,Zone 2
-Brondesbury,London Overground,Zone 2
-Brondesbury Park,London Overground,Zone 2
-Caledonian Road,London Underground,Zone 2
-Caledonian Road and Barnsbury,London Overground,Zone 2
-Cambridge Heath,London Overground,Zone 2
-Camden Road,London Overground,Zone 2
-Camden Town,London Underground,Zone 2
-Canada Water,London UndergroundLondon Overground,Zone 2
-Canary Wharf LU,London Underground,Zone 2
-Canary Wharf DLR,Docklands Light Railway,Zone 2
-Canning Town,London Underground,Zone 2
-Canonbury,London Overground,Zone 2
-Chalk Farm,London Underground,Zone 2
-Clapham Common,London Underground,Zone 2
-Clapham High Street,London Overground,Zone 2
-Clapham North,London Underground,Zone 2
-Clapham South,London Underground,Zone 2
-Clapton,London Overground,Zone 2
-Crossharbour,Docklands Light Railway,Zone 2
-Cutty Sark,Docklands Light Railway,Zone 2
-Dalston Junction,London Overground,Zone 2
-Dalston Kingsland,London Overground,Zone 2
-Deptford Bridge,Docklands Light Railway,Zone 2
-Devons Road,Docklands Light Railway,Zone 2
-Earl's Court,London Underground,Zone 2
-East Acton,London Underground,Zone 2
-East India,Docklands Light Railway,Zone 2
-East Putney,London Underground,Zone 2
-Elephant & Castle LU,London Underground,Zone 2
-Elverson Road,Docklands Light Railway,Zone 2
-Finchley Road,London Underground,Zone 2
-Finchley Road & Frognal,London Overground,Zone 2
-Finsbury Park LU,London Underground,Zone 2
-Fulham Broadway,London Underground,Zone 2
-Goldhawk Road,London Underground,Zone 2
-Gospel Oak,London Overground,Zone 2
-Hackney Central,London Overground,Zone 2
-Hackney Downs,London Overground,Zone 2
-Hackney Wick,London Overground,Zone 2
-Haggerston,London Overground,Zone 2
-Hammersmith (Circle and Hammersmith & City),London Underground,Zone 2
-Hammersmith (District and Piccadilly),London Underground,Zone 2
-Hampstead,London Underground,Zone 2
-Hampstead Heath,London Overground,Zone 2
-Heron Quays,Docklands Light Railway,Zone 2
-Highbury & Islington,London Underground,Zone 2
-Holland Park,London Underground,Zone 2
-Holloway Road,London Underground,Zone 2
-Homerton,London Overground,Zone 2
-Hoxton,London Overground,Zone 2
-Imperial Wharf,London Overground,Zone 2
-Island Gardens,Docklands Light Railway,Zone 2
-Kennington,London Underground,Zone 2
-Kensal Green,London Underground,Zone 2
-Kensal Rise,London Overground,Zone 2
-Kensington (Olympia),London Overground,Zone 2
-Kentish Town,London Underground,Zone 2
-Kentish Town West,London Overground,Zone 2
-Kilburn,London Underground,Zone 2
-Kilburn High Road,London Overground,Zone 2
-Kilburn Park,London Underground,Zone 2
-Ladbroke Grove,London Underground,Zone 2
-Langdon Park,Docklands Light Railway,Zone 2
-Latimer Road,London Underground,Zone 2
-Lewisham DLR,Docklands Light Railway,Zone 2
-Limehouse DLR,Docklands Light Railway,Zone 2
-London Fields,London Overground,Zone 2
-Maida Vale,London Underground,Zone 2
-Manor House,London Underground,Zone 2
-Mile End,London Underground,Zone 2
-Mornington Crescent,London Underground,Zone 2
-Mudchute,Docklands Light Railway,Zone 2
-New Cross Gate,London Overground,Zone 2
-North Acton,London Underground,Zone 2
-North Greenwich,London Underground,Zone 2
-Notting Hill Gate,London Underground,Zone 2
-Oval,London Underground,Zone 2
-Parsons Green,London Underground,Zone 2
-Poplar,Docklands Light Railway,Zone 2
-Pudding Mill Lane,Docklands Light Railway,Zone 2
-Putney Bridge,London Underground,Zone 2
-Queen's Park,London Underground,Zone 2
-Ravenscourt Park,London Underground,Zone 2
-Rectory Road,London Overground,Zone 2
-Rotherhithe,London Overground,Zone 2
-Royal Oak,London Underground,Zone 2
-Shadwell DLR,Docklands Light Railway,Zone 2
-Shadwell NR,London Overground,Zone 2
-Shepherd's Bush LU,London Underground,Zone 2
-Shepherd's Bush NR,London Overground,Zone 2
-Shepherd's Bush Market,London Underground,Zone 2
-South Hampstead,London Overground,Zone 2
-South Quay,Docklands Light Railway,Zone 2
-St John's Wood,London Underground,Zone 2
-Stamford Brook,London Underground,Zone 2
-Star Lane,Docklands Light Railway,Zone 2
-Stepney Green,London Underground,Zone 2
-Stockwell,London Underground,Zone 2
-Stoke Newington,London Overground,Zone 2
-Stratford,London Underground,Zone 2
-Stratford High Street,Docklands Light Railway,Zone 2
-Stratford International,SoutheasternDocklands Light Railway,Zone 2
-Surrey Quays,London Overground,Zone 2
-Swiss Cottage,London Underground,Zone 2
-Tufnell Park,London Underground,Zone 2
-Turnham Green,London Underground,Zone 2
-Upper Holloway,London Overground,Zone 2
-Vauxhall LU,London Underground,Zone 2
-Wapping,London Overground,Zone 2
-Warwick Avenue,London Underground,Zone 2
-West Brompton,London Underground,Zone 2
-West Ham,London Underground,Zone 2
-West Hampstead LU,London Underground,Zone 2
-West Hampstead NR,London Overground,Zone 2
-West India Quay,Docklands Light Railway,Zone 2
-West Kensington,London Underground,Zone 2
-Westbourne Park,London Underground,Zone 2
-Westferry,Docklands Light Railway,Zone 2
-Whitechapel,London Underground,Zone 2
-White City,London Underground,Zone 2
-Willesden Green,London Underground,Zone 2
-Willesden Junction,London Underground,Zone 2
-Wood Lane,London Underground,Zone 2
+Route,Start,End,Operator,Notes
+1,Canada Water bus station,Hampstead Heath,Go-Ahead London,
+2,Marylebone station,Norwood bus garage,Arriva London,
+3,Crystal Palace bus station,Victoria bus station,Transport UK London Bus,
+4,Archway tube station,Blackfriars station,Metroline,
+5,Canning Town bus station,Romford Market,Go-Ahead London,
+6,London Victoria station,Willesden bus garage,Metroline,24-hour operation.
+7,East Acton,Oxford Circus,Metroline,
+8,Bow Church,Tottenham Court Road station,Stagecoach London,
+9,Aldwych,Hammersmith bus station,Metroline,
+11,Fulham Town Hall,London Waterloo station,Go-Ahead London,
+12,Dulwich Library,Oxford Circus,Go-Ahead London,24-hour operation.
+13,North Finchley bus station,London Victoria station,RATP Dev Transit London,24-hour operation.
+14,Putney Heath,Russell Square,Go-Ahead London,24-hour operation.
+15,Blackwall DLR station,Charing Cross tube station,Go-Ahead London,
+16,Brent Park,London Paddington station,Metroline,
+17,Archway tube station,London Bridge bus station,Metroline,
+18,Euston bus station,Sudbury & Harrow Road railway station,RATP Dev Transit London,
+19,Battersea Bridge,Finsbury Park bus station,Arriva London,
+20,Debden,Walthamstow bus station,Stagecoach London,
+21,Lewisham Shopping Centre,Holloway,Go-Ahead London,
+22,Oxford Circus,Putney Common,Go-Ahead London,
+23,Aldwych,Westbourne Park tube station,RATP Dev Transit London,24-hour operation.
+24,Hampstead Heath,Pimlico,Transport UK London Bus,24-hour operation.
+25,Ilford,St Paul's tube station,Stagecoach London,Temporarily withdrawn between City Thameslink railway station and St Paul's tube station until 19:00 on 29 September 2024 due to Cadent Gas works closing Farringdon Street northbound from Ludgate Circus to Charterhouse Street.
+26,Hackney Wick,London Victoria station,Stagecoach London,
+27,Chalk Farm,Hammersmith Grove,Transport UK London Bus,
+28,Kensal Rise railway station,Southside Wandsworth,Metroline,
+29,Trafalgar Square,Wood Green tube station,Arriva London,
+30,Hackney Wick,Marble Arch tube station,Metroline,
+31,White City bus station,Camden Town tube station,Metroline,
+32,Edgware bus station,Kilburn Park tube station,Metroline,
+33,Fulwell railway station,Castelnau,RATP Dev Transit London,Temporarily withdrawn between Castelnau and Hammersmith bus station until further notice due to the closure of Hammersmith Bridge.
+34,Barnet Church,Walthamstow bus station,Arriva London,
+35,Clapham Junction railway station,Shoreditch,Go-Ahead London,24-hour operation.
+36,New Cross bus garage,Queen's Park station,Go-Ahead London,24-hour operation.
+37,Peckham,Putney Heath,Go-Ahead London,24-hour operation.
+38,Clapton Pond,Victoria bus station,Arriva London,Several buses start from Hackney Central during weekday daytimes.
+39,Clapham Junction railway station,Putney Bridge tube station,Go-Ahead London,
+40,Clerkenwell Road,Dulwich Library,Go-Ahead London,
+41,Archway tube station,Tottenham Hale bus station,Arriva London,
+42,East Dulwich,Shoreditch,Go-Ahead London,Extended from Denmark Hill to East Dulwich on 1 October 2016.
+43,Friern Barnet,London Bridge bus station,Metroline,24-hour operation.
+44,Tooting railway station,London Victoria station,Go-Ahead London,
+45,Clapham Park,Elephant and Castle,Transport UK London Bus,Ran to London King's Cross railway station until 15 June 2019.
+46,London Paddington station,St Bartholomew's Hospital,Metroline,Operated with electric buses since 20 October 2018.
+47,Catford bus garage,Shoreditch,Stagecoach London,24-hour operation.
+49,Clapham Junction,White City bus station,RATP Dev Transit London,
+50,Fairfield Halls,Stockwell tube station,Arriva London,
+51,Orpington railway station,Beresford Square,Go-Ahead London,
+52,Victoria bus station,Willesden bus garage,Metroline,24-hour operation.
+53,Plumstead railway station,Lower Marsh,Stagecoach London,
+54,Woolwich railway station,Elmers End station,Stagecoach London,Transferred from Go-Ahead London to Stagecoach London on 3 May 2014.
+55,Walthamstow bus station,Oxford Circus,Stagecoach London,
+56,St Bartholomew's Hospital,Whipps Cross,Stagecoach London,
+57,Clapham Park,Fairfield bus station,Go-Ahead London,24-hour operation.
+58,East Ham,Walthamstow bus station,Stagecoach London,
+59,St Bartholomew's Hospital,Streatham Hill,Arriva London,
+60,Old CoulsdonOasis Academy Coulsdon (schoolday journeys to Streatham railway station)[26],Streatham railway station,Arriva London,
+61,Bromley North railway station,Chislehurst,Stagecoach London,
+62,Barking,Marks Gate,Stagecoach London,
+63,London King's Cross railway station,Honor Oak,Transport UK London Bus,
+64,New Addington,Thornton Heath Pond,Arriva London,24-hour operation.[27]
+65,Ealing Broadway station,Kingston upon Thames,RATP Dev Transit London,
+66,Leytonstone bus station,Romford railway station,Arriva London,
+67,Wood Green tube station,Dalston,Go-Ahead London,
+68,Euston bus station,West Norwood,Transport UK London Bus,
+69,Canning Town bus station,Walthamstow bus station,Go-Ahead London,24-hour operation.[29]
+70[30],Chiswick Business Park,South Kensington tube station,RATP Dev Transit London,
+71,Chessington World of Adventures,Kingston upon Thames,RATP Dev Transit London,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[31]
+72,East Acton,Hammersmith Bridge,RATP Dev Transit London,Temporarily withdrawn between Hammersmith Bridge and Roehampton until further notice due to the closure of Hammersmith Bridge.[32]
+73,Oxford Circus,Stoke Newington Common,Arriva London,
+74,Baker Street tube station,Putney Exchange,Go-Ahead London,
+75,Fairfield Halls,Lewisham station,Stagecoach London,
+76,Tottenham Hale bus station,Lower Marsh,Arriva London,24-hour operation.[33]
+77,Tooting railway station,London Waterloo station,Go-Ahead London,
+78,Nunhead,Shoreditch High Street railway station,Go-Ahead London,
+79,Stonebridge Park station,Edgware bus station,RATP Dev Transit London,
+80,Downview & High Down Prisons,Hackbridge,Go-Ahead London,
+81,Slough,Hounslow bus station,Metroline,Temporarily withdrawn between Slough bus station and Slough until further notice due to Slough bus station being closed due to damage caused by a recent fire.[34]
+83,Alperton,Golders Green tube station,Metroline,
+85,Kingston upon Thames,Putney Bridge tube station,RATP Dev Transit London,
+86[35],Romford railway station,Stratford bus station,Stagecoach London,
+87,Aldwych,Wandsworth,Go-Ahead London,Originally numbered 77A until 3 June 2006.[36]
+88,Parliament Hill Fields,Clapham Common,Go-Ahead London,24-hour operation.
+89,Lewisham station,Slade Green railway station,Go-Ahead London,
+90,Feltham,Northolt tube station,Metroline,Operated with double-decker buses since 29 August 2015.[37]
+91,Crouch End,Trafalgar Square,Go-Ahead London,Transferred from Metroline to Go-Ahead London on 4 February 2023.
+92,Ealing Hospital,St Raphael's North,Metroline,
+93,North Cheam,Putney Bridge tube station,Go-Ahead London,24-hour operation.
+94,Acton Green,Piccadilly Circus,RATP Dev Transit London,24-hour operation.
+95,Shepherd's Bush Green,Southall Town Hall,Metroline,
+96,Bluewater Shopping Centre,Woolwich,Stagecoach London,
+97,Chingford railway station,Stratford City bus station,Stagecoach London,
+98,Red Lion Square,Willesden bus garage,Metroline,
+99,Bexleyheath Shopping Centre,Beresford Square,Arriva London,Extended from Erith to Bexleyheath Shopping Centre on 24 January 2009.[38]
+Route,Start,End,Operator,Notes
+100,St Paul's tube station,Shadwell railway station,Go-Ahead London,Operated with electric buses since 18 January 2020.
+101,Beckton bus station,Wanstead tube station,Go-Ahead London,
+102,Brent Cross bus station,Edmonton Green bus station,Arriva London,24-hour operation between Edmonton Green bus station and Golders Green tube station.[39]
+103,Chase Cross,Rainham railway station,Arriva London,
+104,Beckton bus station,Stratford bus station,Go-Ahead London,
+105,Greenford station,Heathrow Central bus station,RATP Dev Transit London,24-hour operation.[40]
+106,Finsbury Park bus station,Whitechapel,Go-Ahead London,
+107,Edgware bus station,New Barnet railway station,Metroline,Crosses border into Hertfordshire at Elstree & Borehamwood railway station.[41]
+108,Lewisham Shopping Centre,Stratford International station,Go-Ahead London,24-hour operation.[29]
+108D,Lewisham Shopping Centre,North Greenwich bus station,Go-Ahead London,Runs only at night.
+109,Croydon,Brixton tube station,Transport UK London Bus,
+110,Hammersmith bus station,Hounslow bus station,RATP Dev Transit London,
+111,Heathrow Central bus station,Kingston upon Thames,Transport UK London Bus,24-hour operation.[40]Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.
+112,Ealing Broadway station,Tally Ho Corner,Metroline,
+113,Edgware bus station,Marble Arch tube station,Metroline,
+114,Mill Hill Broadway railway station,Ruislip tube station,Metroline,
+115,Aldgate bus station,East Ham,Go-Ahead London,
+116,Ashford Hospital,Hounslow bus station,RATP Dev Transit London,
+117,Staines-upon-Thames,West Middlesex University Hospital,RATP Dev Transit London,
+118,Morden tube station,Brixton tube station,Go-Ahead London,
+119,Bromley North railway station,Croydon Colonnades,Go-Ahead London,24-hour operation.[43]
+120,Hounslow bus station,Northolt tube station,Metroline,
+121,Enfield Island Village,Turnpike Lane bus station,Arriva London,
+122,Crystal Palace bus station,Plumstead bus garage,Stagecoach London,
+123,Ilford,Wood Green tube station,Arriva London[44],24-hour operation.[45]
+124[46],St Dunstan's College,Eltham,Stagecoach London,
+125,Colindale tube station,Winchmore Hill,RATP Dev Transit London,
+126,Bromley,Eltham,Go-Ahead London,
+127,Purley railway station,Tooting Broadway tube station,Go-Ahead London,
+128,Claybury Broadway,Romford railway station,Stagecoach London,24-hour operation.[29]
+129,Lewisham Shopping Centre,North Greenwich bus station,Go-Ahead London,
+130[47],New Addington,Thornton Heath,Transport UK London Bus,
+131,Fairfield bus station,Tooting Broadway tube station,Go-Ahead London,Transferred from London United to Go-Ahead London on 30 September 2017.[48]
+132[49],Bexleyheath Shopping Centre,North Greenwich bus station,Go-Ahead London,Extended from Eltham railway station to North Greenwich bus station on 24 January 2009.[38]
+133,Streatham railway station,Holborn tube station,Transport UK London Bus,
+134,University College Hospital,Tally Ho Corner,Metroline,24-hour operation.
+135,Cubitt Town,Moorfields Eye Hospital,Stagecoach London,
+136[46],Elephant and Castle,Grove Park railway station,Stagecoach London,
+137,Marble Arch tube station,Streatham Hill,Arriva London,
+138,Bromley North railway station,Coney Hall,Go-Ahead London,
+139,Golders Green tube station,London Waterloo station,Metroline,24-hour operation.
+140,Harrow Weald bus garage,Hayes & Harlington railway station,Metroline,Withdrawn between Heathrow Central bus station and Hayes & Harlington railway station on 7 December 2019.
+141,London Bridge bus station,Palmers Green,Arriva London,
+142,Brent Cross bus station,Watford Junction railway station,Metroline,
+143,Archway tube station,Brent Cross bus station,Metroline,
+144,Edmonton Green bus station,Muswell Hill,Arriva London,
+145,Dagenham,Leytonstone bus station,Stagecoach London,
+146[50],Bromley North railway station,Downe,Stagecoach London,
+147,Canning Town bus station,Ilford,Go-Ahead London,
+148,Camberwell Green,White City bus station,RATP Dev Transit London,24-hour operation.
+149,Edmonton Green bus station,London Bridge bus station,Arriva London,24-hour operation.
+150,Becontree Heath,Chigwell Row,Arriva London,
+151,Wallington,Worcester Park railway station,Go-Ahead London,
+152,New Malden,Pollards Hill,Go-Ahead London,
+153,Finsbury Park bus station,Liverpool Street bus station,Go-Ahead London,
+154,Morden tube station,West Croydon bus station,Go-Ahead London,
+155,Elephant and Castle,St George's Hospital,Go-Ahead London,
+156,Vauxhall bus station,Wimbledon station,Transport UK London Bus,
+157,Crystal Palace bus station,Morden tube station,Go-Ahead London,
+158,Chingford Mount,Stratford bus station,Arriva London,24-hour operation.[51]
+159,Oxford Circus,Streatham railway station,Transport UK London Bus,24-hour operation.
+160[52],Catford Bridge railway station,Sidcup railway station,Stagecoach London,
+161,Chislehurst,North Greenwich bus station,Stagecoach London,
+162,Beckenham Junction station,Eltham railway station,Go-Ahead London,
+163,Morden tube station,Wimbledon,Go-Ahead London,
+164,Wimbledon,Sutton railway station,Go-Ahead London,
+165,Rainham,The Brewery,Stagecoach London,
+166,BansteadEpsom Hospital (once per hour),West Croydon bus station,Arriva London,
+167,Ilford,Loughton tube station,Stagecoach London,
+169,Barking,Clayhall,Stagecoach London,
+170,Roehampton,London Victoria station,Go-Ahead London,
+171,Elephant and Castle,Catford bus garage,Go-Ahead London,Ran to Holborn tube station until 15 June 2019.[53]
+172,Brockley Rise,Aldwych,Go-Ahead London,Ran to Clerkenwell Green until 15 June 2019.
+173,Beckton bus station,King George Hospital,Stagecoach London,
+174,Beam Park,Harold Hill,Stagecoach London,
+175,Dagenham,Hillrise Estate,Arriva London,
+176,Penge,Tottenham Court Road station,Go-Ahead London,24-hour operation.
+177,Peckham,Thamesmead,Stagecoach London,
+178,Lewisham station,Woolwich,Go-Ahead London,
+179,Chingford railway station,Ilford,Stagecoach London,
+180,Erith,North Greenwich bus station,Stagecoach London,
+181,Grove Park railway station,Lewisham station,Stagecoach London,
+182,Brent Cross bus station,Harrow Weald,Metroline,
+183,Golders Green tube station,Pinner tube station,RATP Dev Transit London,
+184,Chipping Barnet,Turnpike Lane bus station,Go-Ahead London,
+185,Lewisham station,London Victoria station,Go-Ahead London,
+186,Brent Cross bus station,Northwick Park Hospital,Metroline,
+187,O2 Centre,Central Middlesex Hospital,Metroline,
+188,North Greenwich bus station,Tottenham Court Road station,Go-Ahead London,24-hour operation.
+189,Brent Cross bus station,Marble Arch tube station,Metroline,24-hour operation.
+190,Richmond bus station,Empress State Building,Metroline,
+191,Brimsdown railway station,Edmonton Green bus station,Arriva London,
+192,Enfield Town,Tottenham Hale bus station,Arriva London,
+193[54],County Park Estate,Queen's Hospital,Stagecoach London,
+194,Lower Sydenham,West Croydon bus station,Arriva London,
+195,Brentford,Charville Lane Estate,Transport UK London Bus,
+196,Elephant and Castle,Norwood Junction railway station,Transport UK London Bus,
+197[55],Fairfield Halls,Peckham,Go-Ahead London,
+198,Shrublands,Thornton Heath,Arriva London,
+199,Canada Water bus station,Catford bus garage,Stagecoach London,
+Route,Start,End,Operator,Notes
+200[56],Mitcham,Raynes Park,Go-Ahead London,
+201,Herne Hill railway station,Morden tube station,Transport UK London Bus,
+202,Crystal Palace bus station,Blackheath,Arriva London,
+203,Staines-upon-Thames,Hounslow bus station,RATP Dev Transit London,
+204,Edgware bus station,Sudbury Town tube station,Metroline,
+205,Bow Church,Paddington,Stagecoach London,
+206[57],Kilburn Park tube station,Wembley Park,Metroline,
+207,Hayes Bypass,White City bus station,Transport UK London Bus,
+208,Lewisham station,Orpington,Go-Ahead London,
+209,Mortlake,Castelnau,Go-Ahead London,Temporarily withdrawn between Castelnau and Hammersmith bus station until further notice due to the closure of Hammersmith Bridge.[58]
+210,Brent Cross bus station,Finsbury Park bus station,Metroline,
+211,Hammersmith bus station,Battersea Power Station tube station,Transport UK London Bus,
+212,Chingford railway station,St. James Street railway station,Go-Ahead London,
+213[59],Fairfield bus station,Sutton bus garage,Go-Ahead London,24-hour operation.[60][61]
+214,Highgate Village,Finsbury Square,Go-Ahead London,24-hour operation.
+215[62],Walthamstow bus station,Lee Valley Campsite,Stagecoach London,
+216,Kingston upon Thames,Staines-upon-Thames,RATP Dev Transit London,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[63]
+217,Turnpike Lane bus station,Waltham Cross,Sullivan Buses,
+218,North Acton,Hammersmith bus station,RATP Dev Transit London,Introduced on 7 December 2019 with a peak frequency of every 10 minutes.[64][65]
+219,Clapham Junction,Wimbledon,Go-Ahead London,
+220,Southside Wandsworth,Willesden Junction station,RATP Dev Transit London,24-hour operation.[40]
+221,Edgware bus station,Turnpike Lane bus station,Arriva London,
+222,Uxbridge tube station,Hounslow bus station,Metroline,24-hour operation.[22]
+223[66],Harrow View,Wembley Central station,Metroline,
+224,St Raphael's Estate,Alperton,RATP Dev Transit London,
+225,Canada Water bus station,Hither Green railway station,Go-Ahead London,
+226,Ealing Broadway station,Golders Green tube station,RATP Dev Transit London,
+227[46],Crystal Palace bus station,Bromley North railway station,Go-Ahead London,
+228,Central Middlesex Hospital,Maida Hill,Metroline,
+229,Queen Mary's Hospital,Thamesmead,Arriva London,
+230,Upper Walthamstow,Wood Green tube station,Go-Ahead London,Transferred from Arriva London to Go-Ahead London on 20 June 2020.[67]
+231,Enfield Chase railway station,Turnpike Lane bus station,Metroline,
+232,St Raphael's Estate,Turnpike Lane bus station,Go-Ahead London,
+233[68],Eltham railway station,Swanley,Go-Ahead London,
+234,The Spires Barnet,Archway tube station,Metroline,
+235,North Brentford,Sunbury Village,RATP Dev Transit London,Extended from Brentford to North Brentford on 7 December 2013.[69]Transferred from Metroline to RATP Dev Transit London on 8 January 2022.[52]
+236,Finsbury Park bus station,Hackney Wick,Stagecoach London,
+237,Hounslow Heath,White City bus station,Metroline,
+238,Barking station,Stratford bus station,Stagecoach London,24-hour operation.[22]
+240,Edgware bus station,Golders Green tube station,Metroline,
+241,Royal Wharf,Stratford City bus station,Stagecoach London,
+242,Homerton University Hospital,Aldgate bus station,Stagecoach London,
+243,London Waterloo station,Wood Green tube station,Arriva London,24-hour operation.
+244,Abbey Wood,Queen Elizabeth Hospital,Go-Ahead London,
+245,Alperton,Golders Green tube station,Metroline,
+246,Bromley North railway station,WesterhamChartwell (8 buses on Summer Sundays)[70],Stagecoach London,
+247,Barkingside tube station,Romford railway station,Stagecoach London,
+248,Cranham,Romford Market,Arriva London,
+249,Anerley railway station,Clapham Common,Arriva London,
+250,West Croydon bus station,Brixton tube station,Arriva London,
+251,Arnos Grove tube station,Edgware bus station,Metroline,
+252,Collier Row,Hornchurch,Stagecoach London,
+253,Euston bus station,Hackney Central railway station,Arriva London,
+254,Aldgate bus station,Holloway,Arriva London,
+255,Balham station,Pollards Hill,Arriva London,
+256,Hornchurch,Noak Hill,Stagecoach London,
+257,Stratford bus station,Walthamstow bus station (20:00 until 03:00)Bakers Arms (03:00 until 20:00),Stagecoach London,Temporarily withdrawn between Walthamstow bus station and Bakers Arms during 03:00-20:00 each day until the end of August due to Walthamstow bus station being closed for works.[71]
+258,South Harrow tube station,Watford Junction railway station,RATP Dev Transit London,
+259,Edmonton Green bus station,King's Cross,Arriva London,
+260,Golders Green tube station,White City bus station,Metroline,
+261,Lewisham station,Princess Royal University Hospital,Stagecoach London,
+262,Gallions Reach Shopping Park,Stratford bus station,Go-Ahead London,
+263,Barnet Hospital,Highbury Barn,Metroline,
+264,West Croydon bus station,St George's Hospital,Go-Ahead London,24-hour operation.[72]
+265,Putney Bridge tube station,Tolworth,Go-Ahead London,
+266,Brent Cross bus station,Acton,RATP Dev Transit London,
+267,Fulwell,Hammersmith bus station,Transport UK London Bus,
+268,O2 Centre,Golders Green tube station,Metroline,
+269,Bexleyheath Shopping Centre,Bromley North railway station,Arriva London,
+270,Mitcham,Putney Bridge tube station,Transport UK London Bus,
+272,Shepherd's Bush Green,Chiswick,RATP Dev Transit London,
+273,Lewisham,Petts Wood railway station,Stagecoach London,
+274,Angel Islington,Lancaster Gate tube station,Metroline,
+275,Barkingside,St. James Street railway station,Stagecoach London,Crosses border into Essex in Chigwell.[73]
+276,Newham University Hospital,Stoke Newington Common,Stagecoach London,Transferred from Go-Ahead London to Stagecoach London on 16 September 2023.
+277,Cubitt Town,Dalston,Stagecoach London,
+278,Heathrow Central bus station,Ruislip tube station,Transport UK London Bus,Introduced on 7 December 2019.[74][65]
+279,Manor House tube station,Waltham Cross,Arriva London,
+280,St George's Hospital,Belmont railway station,Go-Ahead London,
+281,Hounslow bus station,Tolworth,RATP Dev Transit London,24-hour operation.
+282,Ealing Hospital,Mount Vernon Hospital,Metroline,
+283,East Acton,Hammersmith bus station,RATP Dev Transit London,
+284,Lewisham station,Grove Park Cemetery,Stagecoach London,
+285[65],Heathrow Central bus station,Kingston upon Thames,Transport UK London Bus,24-hour operation.[40]Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[75]
+286,Cutty Sark,Queen Mary's Hospital,Go-Ahead London,
+287,Barking station,Rainham,Stagecoach London,
+288,Broadfields Estate,Queensbury,RATP Dev Transit London,
+289,Elmers End station,Purley railway station,Arriva London,
+290,Staines-upon-Thames,Twickenham,RATP Dev Transit London,
+291,Queen Elizabeth Hospital,Woodlands Estate,Go-Ahead London,
+292,Borehamwood,Colindale,Metroline,
+293,Morden tube station,Epsom Hospital,RATP Dev Transit London,
+294,Havering Country Park,Noak Hill,Stagecoach London,
+295,Clapham Junction railway station,Ladbroke Grove,RATP Dev Transit London,24-hour operation.[40]
+296,Ilford,Romford railway station,Stagecoach London,
+297,Ealing Broadway station,Willesden bus garage,Metroline,24-hour operation.[40]
+298,Arnos Grove tube station,Potters Bar railway station,Sullivan Buses,Withdrawn between Potters Bar and Potters Bar railway station on 13 November 2017.
+299,Muswell Hill,Cockfosters tube station,Sullivan Buses,
+Route,Start,End,Operator,Notes
+300,Canning Town bus station,East Ham,Go-Ahead London,
+301,Bexleyheath Shopping Centre,Beresford Square,Arriva London,Introduced on 13 July 2019.[76]
+302,Mill Hill Broadway railway station,Kensal Rise railway station,Metroline,
+303,Kingsbury,Edgware bus station,RATP Dev Transit London,
+304,Manor Park,Custom House station,Go-Ahead London,Introduced on 21 May 2022 in preparation for the Elizabeth line.[77]
+306,Acton Vale,Sands End,Transport UK London Bus,Introduced on 7 December 2019 with a peak frequency of every 12 minutes.[64]
+307,Barnet Hospital,Brimsdown railway station,Arriva London,
+308,Clapton Pond,Wanstead,Stagecoach London,
+309,Bethnal Green,Canning Town bus station,Stagecoach London,
+312,Norwood Junction railway station,Purley,Arriva London,
+313,Chingford railway stationEnfield bus garage (schoolday journeys to and from Dame Alice Owen's School)[78],Potters Bar railway stationDame Alice Owen's School (schoolday journeys to and from Enfield bus garage)[79],Arriva London,
+314,New Addington tram stop,Eltham railway station,Stagecoach London,
+315,Balham station,West Norwood,Transport UK London Bus,Transferred from Go-Ahead London to Abellio London on 17 October 2020.[67]
+316,Brent Cross West railway station,White City bus station,Metroline,Extended from Cricklewood bus garage to Brent Cross West railway station on 10 December 2023.[80]
+317,Enfield Town,Waltham Cross,Metroline,
+318,North Middlesex University Hospital,Stamford Hill,Arriva London,
+319,Sloane Square,Streatham Hill,Arriva London,
+320,Biggin Hill Valley,Catford Bridge railway station,Go-Ahead London,
+321,Foots Cray,New Cross,Go-Ahead London,24-hour operation.[21]
+322,Crystal Palace bus station,Clapham Common,Transport UK London Bus,
+323,Canning Town bus station,Mile End tube station,Stagecoach London,
+324,Brent Cross,Elstree,Metroline,
+325,East Beckton,Prince Regent DLR station,Go-Ahead London,
+326,The Spires Barnet,Brent Cross bus station,RATP Dev Transit London,
+327,Waltham Cross,Circular via Elsinge Estate & Turkey Street railway station,Sullivan Buses,
+328,World's End,Golders Green tube station,Metroline,
+329,Enfield Town,Turnpike Lane bus station,Arriva London,
+330,Thames Barrier,Wanstead Park railway station,Stagecoach London,
+331,Uxbridge tube station,Ruislip tube station,Metroline,Runs via Harefield.[81]Crosses border into Hertfordshire at Batchworth Heath and into Buckinghamshire at Denham railway station.[82]
+333,Elephant and Castle,Tooting Broadway tube station,Go-Ahead London,
+335,Kidbrooke,North Greenwich bus station,Arriva London,Introduced on 26 October 2019.[83]
+336,Catford Bridge railway station,Locksbottom,Stagecoach London,
+337,Clapham Junction,Richmond bus station,Go-Ahead London,
+339,Leytonstone bus station,Shadwell DLR station,Stagecoach London,
+340,Edgware bus station,Harrow bus station,RATP Dev Transit London,
+341,London Waterloo station,Meridian Water railway station,Arriva London,24-hour operation.
+343,Aldgate bus station,New Cross Gate,Go-Ahead London,
+344,Clapham Junction railway station,Liverpool Street bus station,Transport UK London Bus,24-hour operation.
+345,Peckham,Natural History Museum,Transport UK London Bus,24-hour operation.
+346,Upminster Park Estate,Harold Hill,Stagecoach London,
+347,Romford railway station,Ockendon railway station,Arriva London,
+349,Enfield bus garage,Stamford Hill,Arriva London,
+350,Hayes,Heathrow Terminal 5,Transport UK London Bus,
+352,Bromley North railway station,Lower Sydenham,Go-Ahead London,
+353,Forestdale,Ramsden,Go-Ahead London,
+354,Bromley North railway station,Penge,Go-Ahead London,
+355,Mitcham,Brixton tube station,Go-Ahead London,
+356,Shirley,Upper Sydenham,Stagecoach London,
+357,Chingford Hatch,Whipps CrossWhipps Cross University Hospital (Sundays only),Go-Ahead London,
+358,Crystal Palace bus station,Orpington railway station,Go-Ahead London,
+359,Addington Village Interchange,Purley,Go-Ahead London,
+360,Elephant and Castle,Royal Albert Hall,Go-Ahead London,
+362,King George Hospital,Grange Hill tube station,Stagecoach London,
+363,Crystal Palace bus station,Elephant and Castle,Transport UK London Bus,
+364,Dagenham East,Ilford,Go-Ahead London,
+365,Beam Park,Havering Country Park,Stagecoach London,24-hour operation.[29]
+366,Beckton bus station,Redbridge,Go-Ahead London,
+367,West Croydon bus station,Bromley North railway station,Transport UK London Bus,
+368[54],Barking,Chadwell Heath,Go-Ahead London,
+370,Romford,Lakeside Shopping Centre,Arriva London,
+371,Richmond,Kingston upon Thames,RATP Dev Transit London,
+372,Hornchurch,Lakeside Shopping Centre,Stagecoach London,Partially replaced former route 324 that ran between Hornchurch and Bluewater Shopping Centre.[84]
+375,Romford railway station,Passingford Bridge,Arriva London,Partially replaced commercial routes 500 and 575.[85][86][87][88]
+376,Beckton bus station,Newham Town Hall,Go-Ahead London,
+377,Enfield bus garage,Oakwood tube station,Arriva London,
+378,Mortlake,Putney Bridge,Go-Ahead London,
+379,Chingford railway station,Yardley Lane Estate,Stagecoach London,
+380,Lewisham Shopping Centre,Belmarsh Prison,Stagecoach London,
+381,County Hall,Peckham,Transport UK London Bus,
+382,Southgate tube station,Mill Hill East,Metroline,
+383,The Spires Barnet,Finchley Memorial Hospital,Uno,
+384,Edgware bus station,Cockfosters tube station,Metroline,
+385,Chingford railway station,Salisbury Hall,Stagecoach London,
+386,Blackheath Village,Woolwich Arsenal station,Go-Ahead London,
+388,London Bridge bus station,Stratford City bus station,Stagecoach London,
+389,The Spires Barnet,Circular via High Barnet tube station,Sullivan Buses,
+390,Victoria bus station,Archway tube station,Metroline,24-hour operation.
+393,Chalk Farm,Clapton Pond,Metroline,
+394,Islington,Homerton University Hospital,Stagecoach London,
+395[89],Greenford,Harrow bus station,RATP Dev Transit London,
+396,Ilford,King George Hospital,Go-Ahead London,
+397,Salisbury Hall,Debden,Stagecoach London,
+398,Ruislip tube station,Wood End,RATP Dev Transit London,
+399,The Spires Barnet,Circular via Hadley Wood railway station,Sullivan Buses,
+Route,Start,End,Operator,Notes
+401,Bexleyheath Shopping Centre,Thamesmead,Arriva London,
+403,Warlingham,West Croydon bus station,Go-Ahead London,
+404,Caterham on the Hill,Coulsdon,Transport UK London Bus,
+405[90][91],Croydon,Redhill,Arriva London,
+406,EpsomEpsom Hospital (schoolday journeys)[92],Kingston upon Thames,RATP Dev Transit London,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[93]
+407,Sutton,Caterham Valley,Transport UK London Bus,
+410,Crystal Palace bus station,Wallington,Arriva London,Frequency reduced from a bus every 9 minutes to a bus every 10 minutes on 30 June 2018.[94]
+411[48],Kingston upon Thames,West Molesey,RATP Dev Transit London[95],Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[96]
+412,Croydon,Purley,Arriva London,
+413,Morden tube station,Sutton bus garage,Go-Ahead London,
+414,Putney Bridge tube station,Marble Arch tube station,RATP Dev Transit London,
+415,Old Kent Road,Tulse Hill railway station,Transport UK London Bus,
+417,Crystal Palace bus station,Clapham Common,Arriva London,
+418,Kingston upon Thames,Epsom,RATP Dev Transit London,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[97]
+419,Roehampton,Richmond bus station,RATP Dev Transit London,
+422,North Greenwich bus station,Bexleyheath Shopping Centre,Stagecoach London,
+423,Heathrow Terminal 5,Hounslow bus station,RATP Dev Transit London,
+424,Putney Heath,Fulham,Go-Ahead London,
+425,Clapton,Ilford,Stagecoach London,
+427,Southall,Uxbridge,Transport UK London Bus,
+428,Erith,Bluewater Shopping Centre,Arriva London,
+430,Victoria and Albert Museum,Roehampton,Go-Ahead London,
+432,Anerley railway station,Brixton tube station,Arriva London,
+433,Croydon,Addington Village Interchange,Transport UK London Bus,Originally numbered T33 until 24 October 2015.
+434[98],Coulsdon,Caterham Valley,Go-Ahead London,
+436,Battersea Park railway station,Lewisham Shopping Centre,Go-Ahead London,
+439,Waddon Marsh tram stop,Whyteleafe South,Go-Ahead London,
+440,Wembley,Turnham Green Church,RATP Dev Transit London,
+444,Turnpike Lane bus station,Chingford railway station,Go-Ahead London,
+450,Lower Sydenham,West Croydon bus station,Go-Ahead London,
+452[99],Ladbroke Grove,Vauxhall bus station,RATP Dev Transit London,Extended from Wandsworth Road railway station to Vauxhall bus station on 19 November 2016.[100]Temporarily withdrawn between Kensal Rise railway station and Ladbroke Grove until further notice due to road layout changes at the bus stand at Kensal Rise railway station by the London Borough of Brent.[101]
+453,Marylebone station,Deptford Bridge DLR station,Go-Ahead London,24-hour operation.
+456,North Middlesex University Hospital,Crews Hill,Go-Ahead London,
+460,North Finchley bus station,Willesden bus garage,Metroline,
+462,Ilford,Hainault,Stagecoach London,Crosses border into Essex at Grange Hill tube station.[102]
+463[67],Pollards Hill,Coulsdon South railway station,Go-Ahead London,
+464,Tatsfield,New Addington tram stop,Transport UK London Bus,
+465,Kingston upon Thames,Dorking,Transport UK London Bus,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[103]
+466,Caterham on the HillOasis Academy Coulsdon (schoolday journeys)[104],Addington Village Interchange,Arriva London,
+467,HookHinchley Wood School (schoolday journeys from Epsom)[105],EpsomEpsom Hospital (schoolday journeys from Hook)[106],RATP Dev Transit London,
+468,Elephant and Castle,South Croydon,Arriva London,
+469,Queen Elizabeth Hospital,Erith,Go-Ahead London,Extended from Bexleyheath Shopping Centre to Queen Elizabeth Hospital on 24 January 2009.[38]
+470,Colliers Wood tube station,Sutton railway station,Go-Ahead London,
+472,North Greenwich bus station,Abbey Wood railway station,Stagecoach London,24-hour operation.[21]
+473[25],Stratford bus station,North Woolwich,Go-Ahead London,
+474,Canning Town,Manor Park railway station,Stagecoach London,24-hour operation.[29]
+476,Northumberland Park railway station,London King's Cross railway station,Go-Ahead London,
+481,West Middlesex University Hospital,Kingston upon Thames,Metroline,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[107]
+481D,Whitton,Kingston upon Thames,Transport UK London Bus,Schoolday journeys only.Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[108]
+482,Southall Town Hall,Heathrow Terminal 5,Transport UK London Bus,
+483,Harrow bus station,Windmill Park,Metroline,
+484,Camberwell Green,Lewisham station,Go-Ahead London,
+485,Southside Wandsworth,Castelnau,Go-Ahead London,Temporarily withdrawn between Castelnau and Hammersmith bus station until further notice due to the closure of Hammersmith Bridge.[109]Route serves the WWT London Wetland Centre in both directions during opening hours.[110]
+486,Bexleyheath Shopping Centre,North Greenwich bus station,Go-Ahead London,24-hour operation.[111]
+487,Willesden Junction station,South Harrow tube station,Metroline,
+488,Bromley-by-Bow,Dalston,Stagecoach London,
+490,Pools on the Park,Heathrow Terminal 5,Transport UK London Bus,
+491,North Middlesex University Hospital,Waltham Cross,Metroline,
+492,Bluewater Shopping Centre,Sidcup railway station,Arriva London,
+493,St George's Hospital,Richmond bus station,Go-Ahead London,
+496,Queen's Hospital,Harold Wood,Stagecoach London,
+498[54],Queen's Hospital,Brentwood,Stagecoach London,Introduced on 26 December 2005.[112]
+499,Gallows Corner,loop service via Heath Park Estate,Stagecoach London,
+Route,Start,End,Operator,Notes
+533[113],Hammersmith bus station,loop service via Castelnau,Go-Ahead London,"A temporary route replacing routes 33, 72, 209 and 485 until further notice due to the closure of Hammersmith Bridge.[114]"
+549,Loughton tube station,South Woodford tube station,Sullivan Buses[115],"Frequency reduced from a bus every 67 minutes to a bus every 90 minutes on 12 March 2022.[116]To be withdrawn on 7 September 2024, being replaced by a restructured version of route W14.[117]"
+Route,Start,End,Schools,Operator,Notes
+601[49],Thamesmead,Wilmington Academy,Wilmington Academy,Go-Ahead London,
+602,Thamesmead,Townley Grammar School,Townley Grammar School,Stagecoach London,
+603[119],Swiss Cottage tube station,Muswell Hill,N/A,Metroline,
+605,Burnt Oak tube station,Totteridge & Whetstone tube station,Mill Hill County High School,Sullivan Buses,
+606,Queensbury tube station,The Totteridge Academy,"The Totteridge AcademyQueen Elizabeth's School, Barnet",Sullivan Buses,
+608[120],Gallows Corner,Shenfield High School,Shenfield High School,Go-Ahead London,
+612,Selsdon,Wallington County Grammar School,Wallington County Grammar SchoolRiddlesdown CollegiateThe John Fisher SchoolWallington High School for Girls,Arriva London,
+613,Tolworth railway station,Glenthorne High School,Glenthorne High School,RATP Dev Transit London,
+616,Winchmore Hill,Edmonton Green bus station,The Latymer School,Stagecoach London,
+617[30],Turnpike Lane bus station,Turkey Street railway station,St Ignatius College,Sullivan Buses,
+621,Lewisham station,Stationers' Crown Woods Academy,Stationers' Crown Woods Academy,Stagecoach London,
+624,Grove Park railway station,Stationers' Crown Woods AcademyWelling (1 bus eastbound only),Stationers' Crown Woods Academy,Go-Ahead London,
+625,Plumstead Common,Chislehurst,N/A,Go-Ahead London,
+626,Finchley Central tube station,Dame Alice Owen's School,Dame Alice Owen's School,Metroline,
+627,Wallington High School for Girls,Worcester Park railway station,Wallington High School for Girls,Arriva London,
+628,JFS,Southgate tube station,JFS,Uno,Runs one way to Southgate tube station only.
+629[30],Turkey Street railway station,Wood Green bus garage,St Ignatius College,Sullivan Buses,
+631[121],Golders Green tube station,Henrietta Barnett School,Henrietta Barnett School,Metroline,
+632,Grahame Park,Kilburn Park tube station,St James' Catholic High School,Metroline,
+633,Pollards Hill,Coulsdon South railway station,Woodcote High School,Go-Ahead London,Transferred from Quality Line to Go-Ahead London on 3 April 2021.[67]Extended from Wallington to Pollards Hill on 4 January 2022.[122]
+634,Muswell Hill,Chipping Barnet,"Queen Elizabeth's School, Barnet",Metroline,
+635,St Paul's College,Hounslow bus station,St Paul's College,Metroline,
+638,Coney Hall,Kemnal Technology College,Chislehurst School for GirlsKemnal Technology CollegeCoopers SchoolEltham College,Stagecoach London,
+639,Roehampton,St John Bosco College,St John Bosco College,Transport UK London Bus,Transferred from Go-Ahead London to London United on 5 June 2021[67] and transferred from RATP Dev Transit London to Transport UK London Bus on 8 June 2024.
+640,South Harrow tube station,Bentley Wood High School,Whitmore High SchoolSalvatorian CollegeSacred Heart Language CollegeBentley Wood High School,Sullivan Buses,
+642[30],West Hendon,London Academy,London Academy,Metroline,
+643,Brent Cross bus station,Christ's College Finchley,Christ's College Finchley,Uno,
+645,Purley Cross,Waddon,N/A,Arriva London,Introduced on 4 January 2022 to replace route 405D.[122]
+646,Noak Hill,Cranham,N/A,Go-Ahead London,
+649,Romford bus garage,The Campion School,The Campion School,Go-Ahead London,
+650,Romford bus garage,Emerson Park Academy,Emerson Park Academy,Go-Ahead London,
+651,Romford railway station,Chase Cross,Bower Park Academy,Go-Ahead London,
+652,Rainham,Upminster station,Sanders Draper SchoolHavering Sixth Form CollegeThe Brittons AcademyHarris Academy Rainham,Go-Ahead London,
+653,JFS,Muswell Hill,JFS,Uno,
+654,Addington Village Interchange,Ramsden,Harris Academy OrpingtonRavens Wood School,Go-Ahead London,
+655,Mitcham,Raynes Park High School,Raynes Park High School,RATP Dev Transit London,
+656,Gallows Corner,Emerson Park Academy,Emerson Park Academy,Go-Ahead London,
+657,Salisbury Hall,Bancroft's School,Trinity Catholic High SchoolBancroft's School,Go-Ahead London,
+658,Woolwich Arsenal station,Stationers' Crown Woods Academy,Stationers' Crown Woods Academy,Go-Ahead London,
+660,Stationers' Crown Woods Academy,Catford bus garage,Stationers' Crown Woods Academy,Stagecoach London,
+661,Chislehurst,Petts Wood railway station,Eltham CollegeCoopers School,Stagecoach London,
+662,Surbiton railway station,Holy Cross School,Holy Cross School,RATP Dev Transit London,
+663[55],Thornton Heath railway station,Harris Academy Purley,Harris Academy Purley[123],Go-Ahead London,
+664,New Addington,Charles Darwin School,Charles Darwin SchoolRavens Wood School,Go-Ahead London,
+665,Surbiton,Holy Cross School,Holy Cross School,RATP Dev Transit London,
+667,Ilford,West Hatch High School,West Hatch High School,Stagecoach London,
+669,Thamesmead,Cleeve Park School,Cleeve Park School,Stagecoach London,
+670[124],Roehampton,St John Bosco College,St John Bosco College,Transport UK London Bus,Transferred from Go-Ahead London to London United on 5 June 2021[67] and transferred from RATP Dev Transit London to Transport UK London Bus on 8 June 2024.
+671,Chessington South railway station,Tiffin Girls' School,Tiffin Girls' School,Transport UK London Bus,
+672,Thamesmead,Beresford Square,Hawksmoor Primary School,Stagecoach London,
+673,The Warren School,Beckton bus station,The Warren School,Stagecoach London,Runs one way to Beckton bus station only.
+674,Romford railway station,Harold Hill,Royal Liberty School,Stagecoach London,
+675,St. James Street railway station,Woodbridge High School,Woodbridge High School,Arriva London,
+677,Ilford,Debden,Davenant Foundation School,Go-Ahead London,
+678[30],Beckton bus station,Stratford bus station,St Angela's Ursuline SchoolSt Bonaventure'sForest Gate Community SchoolStratford School,Stagecoach London,
+679,Goodmayes,Woodford Wells,Woodford County High School For GirlsTrinity Catholic High SchoolBancroft's School,Go-Ahead London,
+681,Hounslow bus station,Teddington School,Teddington School,RATP Dev Transit London,
+683,Friern Barnet,JFS,JFS,Uno,
+684,Orpington railway station,Charles Darwin School,Charles Darwin School,Stagecoach London,
+685,Warlingham School,Selsdon,Warlingham SchoolRiddlesdown Collegiate,Arriva London,Runs one way to Selsdon only.
+686,Romford railway station,St Edward's Church of England Academy,St Edward's Church of England Academy,Go-Ahead London,Afternoon journeys from St Edward's Church of England Academy terminate at Harold Hill.
+687[67],Dagenham Park Church of England School,Barking station,Dagenham Park Church of England School,Go-Ahead London,
+688,Southgate tube station,JFS,JFS,Uno,
+689,West Croydon bus station,Monks Orchard,Orchard Park High School,Arriva London,
+690,Burntwood School,Norwood bus garage,Burntwood School,Go-Ahead London,
+696,Hayes,Bishop Ramsey School,Bishop Ramsey School,RATP Dev Transit London,
+697,The Douay Martyrs School,Hayes End,The Douay Martyrs School,RATP Dev Transit London,Morning journeys from Hayes End terminate at Ickenham tube station.
+698,The Douay Martyrs School,West Drayton,The Douay Martyrs School,RATP Dev Transit London,Morning journeys from West Drayton terminate at Ickenham tube station.
+699[120],Winchmore Hill,Dame Alice Owen's School,Dame Alice Owen's School,Uno,
+Route,Start,End,Operator,Notes
+969,Whitton,Roehampton Vale,Transport UK London Bus,Operates one return journey on Tuesdays and Fridays only.[125][126]
+Route,Start,End,Operator,Letter code,Notes
+A10[127],Uxbridge tube station,Heathrow Central bus station,Metroline,Heathrow Airport,
+B11,Bexleyheath bus garage,South Thamesmead,Go-Ahead London,Bexleyheath,
+B12,Erith,Joyden's Wood,Go-Ahead London,Bexleyheath,"Extended from Bexleyheath Shopping Centre to Joyden's Wood on 24 January 2009.[38]Runs in a loop in Joyden's Wood via Dartford Road, Old Bexley Lane, Oakfield Lane, Leyton Cross Road, Birchwood Road, Summerhouse Drive, Tile Kiln Lane and Baldwyn's Park, exiting the loop at the junction with Baldwyn's Park and Dartford Road. Runs the loop in reverse after 12:00.[128]"
+B13,Bexleyheath Shopping Centre,New Eltham railway station,Go-Ahead London,Bexleyheath,
+B14,Bexleyheath Shopping Centre,Orpington railway station,Stagecoach London,Bexleyheath,
+B15,Bexleyheath Shopping Centre,Horn Park,Arriva London,Bexleyheath,
+B16,Bexleyheath bus garage,Kidbrooke,Go-Ahead London,Bexleyheath,
+C1,London Victoria station,White City bus station,RATP Dev Transit London,Central London,
+C3,Clapham Junction railway station,Earl's Court,Transport UK London Bus,Chelsea,
+C10,London Victoria station,Canada Water bus station,Transport UK London Bus,Central London,
+C11,Archway tube station,Brent Cross bus station,Metroline,Cricklewood,
+D3,Bethnal Green,Leamouth,Go-Ahead London,London Docklands,
+D6,Ash Grove bus garage,Cubitt Town,Stagecoach London,London Docklands,
+D7,Mile End tube station,All Saints Church,Stagecoach London,London Docklands,
+D8,Cubitt Town,Stratford bus station,Stagecoach London,London Docklands,
+E1,Ealing Broadway station,Greenford Broadway,Metroline,Ealing,
+E2,Brentford,Greenford Broadway,Metroline,Ealing,
+E3,Chiswick,Greenford Broadway,RATP Dev Transit London,Ealing,
+E5,Perivale,Southall,Transport UK London Bus,Dormers Wells,
+E6,Bulls Bridge,Greenford Broadway,Transport UK London Bus,Yeading,Temporarily withdrawn between Greenford station and Greenford Broadway until 20:00 on 17 August 2024 due to gas works on Oldfield Lane North.[129]
+E7,Ealing Broadway station,Ruislip tube station,Transport UK London Bus,Ealing,Runs via Wood Lane in Ruislip during shopping hours.[130]
+E8,Ealing Broadway station,Hounslow,Metroline,Ealing,
+E9,Ealing Broadway station,Yeading,Metroline,Ealing,
+E10,Ealing Broadway station,Northolt,Transport UK London Bus,Ealing,
+E11,Ealing Common,Greenford Broadway,Transport UK London Bus,Ealing,
+G1,Shaftesbury Park Estate,Norbury,Go-Ahead London,St George's Hospital,
+H2[113],Golders Green tube station,Circular via Hampstead Garden Suburb,Metroline,Hampstead Garden Suburb,
+H3[121],East Finchley,Golders Green tube station,Metroline,Hampstead Garden Suburb,
+H9[113],Northwick Park Hospital (circular),anticlockwise via Kenton station,RATP Dev Transit London,Harrow,
+H10[113],Northwick Park Hospital (circular),clockwise via South Harrow tube station,RATP Dev Transit London,Harrow,
+H11,Harrow bus station,Mount Vernon Hospital,RATP Dev Transit London,Harrow,
+H12,South Harrow tube station,Stanmore tube station,RATP Dev Transit London,Hatch End,
+H13,Northwood Hills,Ruislip Lido,Metroline,Ruislip,
+H14,Northwick Park Hospital,Hatch End,RATP Dev Transit London,Harrow,
+H17,Harrow bus station,Wembley Central station,Metroline,Harrow,
+H18[113],Harrow bus station (circular),clockwise via North Harrow,RATP Dev Transit London,Harrow,
+H19[113],Harrow bus station (circular),anticlockwise via Kenton station,RATP Dev Transit London,Harrow,Route terminates at St George's Shopping Centre instead of Harrow bus station.[131]
+H20,Hounslow,Ivybridge,Transport UK London Bus,Hounslow,
+H22,Hounslow,West Middlesex University Hospital,RATP Dev Transit London,Hounslow,
+H25,Hanworth,Hatton Cross tube station,Transport UK London Bus,Hatton,
+H26,Feltham,Hatton Cross tube station,Transport UK London Bus,Hatton,
+H28[132],Bulls Bridge,Osterley,Transport UK London Bus,Hounslow,
+H32,Southall Town Hall,Hounslow bus station,Transport UK London Bus,Hounslow,
+H37,Richmond,Hounslow,RATP Dev Transit London,Hounslow,
+H91,Hammersmith bus station,Hounslow West tube station,Metroline,Hounslow,
+H98,Hayes End,Hounslow bus station,RATP Dev Transit London,Hounslow,
+K1[133],Kingston upon Thames,New Malden railway station,RATP Dev Transit London,Kingston upon Thames,Temporarily withdrawn between Cromwell Road bus station and Kingston upon Thames until summer 2024 due to Cromwell Road bus station being closed for redevelopment works.[134]
+K2[135],Kingston Hospital,Hook,RATP Dev Transit London,Kingston upon Thames,
+K3[135],Roehampton Vale,Esher,RATP Dev Transit London,Kingston upon Thames,
+K4,Mansfield Park Estate,Kingston Hospital,RATP Dev Transit London,Kingston upon Thames,
+K5,Morden tube station,Ham,RATP Dev Transit London,Kingston upon Thames,
+P4,Lewisham station,Brixton tube station,Go-Ahead London,Dulwich,
+P5,Elephant and Castle,Patmore Estate,Transport UK London Bus,Clapham,
+P12,Surrey Quays Shopping Centre,Brockley Rise,Go-Ahead London,Peckham,
+P13,New Cross,Streatham railway station,Transport UK London Bus,Peckham,
+R1,Green Street Green,St Paul's Cray,Go-Ahead London,Orpington,
+R2,Orpington,Biggin Hill Valley,Go-Ahead London,Orpington,
+R3,Princess Royal University Hospital,Orpington railway station,Go-Ahead London,Orpington,
+R4,Princess Royal University Hospital,Paul's Cray Hill,Go-Ahead London,Orpington,
+R5[24][113],Orpington railway station (circular),clockwise via Knockholt,Go-Ahead London,Orpington,
+R6,Orpington railway station,St Mary Cray railway station,Go-Ahead London,Orpington,"To be withdrawn on 29 March 2025, being replaced by a reroute of route B14.[136]"
+R7,Chelsfield Village,Chislehurst,Go-Ahead London[137],Orpington,
+R8,Orpington railway station,Biggin Hill,Go-Ahead London,Orpington,
+R9,Orpington railway station,Ramsden,Go-Ahead London,Orpington,
+R10[24][113],Orpington railway station (circular),anticlockwise via Cudham,Go-Ahead London,Orpington,
+R11,Green Street Green,Queen Mary's Hospital,Go-Ahead London,Orpington,
+R68,Hampton Court railway station,Kew,Transport UK London Bus,Richmond,
+R70,Richmond,Hampton,Transport UK London Bus,Richmond,
+S1,Lavender Fields,Banstead,Go-Ahead London,Sutton,
+S2,St Helier railway station,Epsom,Go-Ahead London,Sutton,
+S3,Belmont railway station,Malden Manor railway station,Transport UK London Bus,Sutton,
+S4,Sutton,Waddon Marsh tram stop,Transport UK London Bus,Sutton,
+U1,Ruislip tube station,West Drayton railway station,Metroline,Uxbridge,
+U2,Uxbridge tube station,Brunel University,Metroline,Uxbridge,Runs via Hillingdon tube station.[138]Runs via Leybourne Road in North Hillingdon during Monday-Saturday shopping hours.[139]
+U3,Uxbridge tube station,Heathrow Central bus station,Metroline,Uxbridge,
+U4,Uxbridge tube station,Hayes,Metroline,Uxbridge,
+U5,Uxbridge,Hayes,Transport UK London Bus,Uxbridge,
+U7,Uxbridge tube station,Hayes,Transport UK London Bus,Uxbridge,
+U9,Uxbridge tube station,Harefield Hospital,Transport UK London Bus,Uxbridge,
+U10[140],Uxbridge tube station,Ruislip,Metroline,Uxbridge,
+W3,Finsbury Park bus station,Northumberland Park railway station,Arriva London,Wood Green,
+W4,Oakthorpe Park,Tottenham Hale,Arriva London,West Green,
+W5,Archway tube station,Harringay,Stagecoach London,Crouch End,
+W6,Southgate tube station,Edmonton Green bus station,Arriva London,Palmers Green,
+W7[141],Finsbury Park bus station,Muswell Hill,Metroline,Crouch End,
+W8,Lee Valley Leisure Complex,Chase Farm Hospital,Metroline,Enfield Town,
+W9,Southgate tube station,Chase Farm Hospital,Sullivan Buses,Enfield Town,
+W11,Walthamstow bus station,Chingford Hall Estate,Stagecoach London,Walthamstow,
+W12,Walthamstow,Wanstead,Stagecoach London,Walthamstow,
+W13,Leytonstone bus station,Woodford Wells,Stagecoach London,Woodford,
+W14,Leyton Mills,Woodford Bridge,Stagecoach London,Woodford,
+W15,Hackney Town Hall,Higham Hill,Go-Ahead London,Walthamstow,
+W16,Leytonstone bus station,Chingford Mount,Stagecoach London,Highams Park,
+W19,Walthamstow,Ilford,Stagecoach London,Walthamstow,
+Route,Start,End,Operator,Notes
+EL1,Barking Riverside,Ilford,Go-Ahead London,24-hour operation.[29]Originally numbered 369 until 20 February 2010.
+EL2,Becontree Heath,Dagenham Dock,Go-Ahead London,
+EL3,Barking Riverside,Little Heath,Go-Ahead London,Originally numbered 387 until 18 February 2017.[142]
+Route,Start,End,Operator,Notes
+SL1,North Finchley bus station,Walthamstow bus station,Arriva London,
+SL2,Walthamstow bus station,North Woolwich,Arriva London,
+SL3,Thamesmead,Bromley North railway station,Stagecoach London,
+SL5,Bromley North railway station,Croydon,Arriva London,
+SL6,Russell Square,West Croydon bus station,Go-Ahead London,"Runs non-stop between Waterloo and West Norwood.Runs only on weekdays during peak hours only.Runs towards Russell Square in the morning peak, and runs towards West Croydon bus station in the evening peak."
+SL7,West Croydon bus station,Heathrow Central bus station,Go-Ahead London,
+SL8,Uxbridge tube station,White City bus station,Metroline,
+SL9,Heathrow Central bus station,Harrow bus station,RATP Dev Transit London,
+SL10,Harrow bus station,North Finchley bus station,RATP Dev Transit London,
+Route,Start,End,Operator
+N1,Tottenham Court Road station,
+N2,Marylebone station,
+N3,Oxford Circus,
+N5,Trafalgar Square,
+N7,Oxford Circus,
+N8,Oxford Circus,
+N9,Aldwych,
+N11,Whitehall,
+N15,Oxford Circus,
+N18,Trafalgar Square,
+N19,Finsbury Park bus station,
+N20,Trafalgar Square,
+N21,Trafalgar Square,
+N22,Oxford Circus,
+N25,Oxford Circus,
+N26,London Victoria station,
+N27,Chalk Farm,
+N28,Southside Wandsworth,
+N29,Trafalgar Square,
+N31,Clapham Junction railway station,
+N32,London Victoria station,
+N33,Hammersmith bus station,
+N38,Victoria bus station,
+N41,Trafalgar Square,
+N44,Aldwych,
+N53,Whitehall,
+N55,Oxford Circus,
+N63,London King's Cross railway station,
+N65,Ealing Broadway station,
+N68,Tottenham Court Road station,
+N72,Roehampton,
+N73,Oxford Circus,
+N74,Baker Street tube station,
+N83,Golders Green tube station,
+N86,Stratford bus station,
+N87,Aldwych,
+N89,Trafalgar Square,
+N91,Trafalgar Square,
+N97,Trafalgar Square,
+N98,Red Lion Square,
+N109,Oxford Circus,
+N113,Trafalgar Square,
+N133,Liverpool Street bus station,
+N136,Oxford Circus,
+N137,Oxford Circus,
+N140,Heathrow Central bus station,
+N155,Aldwych,
+N171,Tottenham Court Road station,
+N199,Trafalgar Square,
+N205,Paddington,
+N207,Bloomsbury Square,
+N242,Tottenham Court Road station,
+N250,Fairfield Halls,
+N253,Tottenham Court Road station,
+N266,Hammersmith bus station,
+N271,Tally Ho Corner,
+N277,Islington,
+N279,Trafalgar Square,
+N343,Trafalgar Square,
+N381,Whitehall,
+N550,Trafalgar Square,
+N551,Trafalgar Square,
